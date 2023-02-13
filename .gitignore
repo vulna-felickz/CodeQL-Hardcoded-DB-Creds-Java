@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### CodeQL ###
+.codeql*/
+.DS_Store

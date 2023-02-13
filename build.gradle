@@ -19,8 +19,11 @@ ext {
 dependencies {
 	implementation 'com.azure.spring:spring-cloud-azure-starter-data-cosmos'
 	runtimeOnly 'com.ibm.db2:jcc'
-	runtimeOnly 'org.mariadb.jdbc:mariadb-java-client'
+	runtimeOnly 'org.mariadb.jdbc:mariadb-java-client'	
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	// https://mvnrepository.com/artifact/com.microsoft.sqlserver/mssql-jdbc
+	implementation 'com.microsoft.sqlserver:mssql-jdbc:12.2.0.jre11'
+
 }
 
 dependencyManagement {
