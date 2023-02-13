@@ -1,7 +1,7 @@
 Test out CodeQL's Hardcoded Credential Capabilities on the following scenarios
--  MSSQL
--  PGSQL
--  Oracle
+-  [MSSQL](https://learn.microsoft.com/en-us/sql/connect/jdbc/working-with-a-connection?view=sql-server-ver16)
+-  [PGSQL](https://jdbc.postgresql.org/documentation/use/)
+-  [Oracle](https://www.javatpoint.com/example-to-connect-to-the-oracle-database)
 -  MYSQL
 
 CodeQL links!
