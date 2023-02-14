@@ -11,6 +11,6 @@ CodeQL links!
 - Query - [java/hardcoded-credential-api-call](https://github.com/github/codeql/blob/main/java/ql/src/Security/CWE/CWE-798/HardcodedCredentialsApiCall.ql)
 - [Sensitive API Libarary](https://github.com/github/codeql/blob/main/java/ql/lib/semmle/code/java/security/SensitiveApi.qll#L142)
 
-Alternatively - set up [Secret Scanning Custom Patterns to look for credentials on GitHub Enterprise](https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/defining-custom-patterns-for-secret-scanning)
+Alternatively - set up [Secret Scanning Custom Patterns to look for credentials](https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/defining-custom-patterns-for-secret-scanning) with GitHub Advanced Security
 - [Hardcoded JDBC / Spring PW’s](https://github.com/advanced-security/secret-scanning-custom-patterns/tree/main/configs#hardcoded-spring-sql-passwords)
 - [Hardcoded MySQL / Postgres PW’s](https://github.com/advanced-security/secret-scanning-custom-patterns/tree/main/configs#hardcoded-database-passwords)
