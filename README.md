@@ -1,3 +1,6 @@
+To View Security Analysis: Fork + Enable Actions!
+
+
 Test out CodeQL's Hardcoded Credential Capabilities on the following scenarios
 -  [MSSQL](https://learn.microsoft.com/en-us/sql/connect/jdbc/working-with-a-connection?view=sql-server-ver16)
 -  [PGSQL](https://jdbc.postgresql.org/documentation/use/)
