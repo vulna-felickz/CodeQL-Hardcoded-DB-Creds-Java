@@ -1,4 +1,4 @@
-To View Security Analysis: Fork + Enable Actions!
+To View Security Analysis: [Fork](../../fork) + Enable Actions!
 
 
 Test out CodeQL's Hardcoded Credential Capabilities on the following scenarios
